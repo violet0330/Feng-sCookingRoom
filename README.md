@@ -38,16 +38,10 @@ Recipes and personal notes are being added gradually
 - Croissant<br>
   - Not a very successful attempt.<br>
     *I'll post the recipe when I've made the perfect croissant with a beautiful exterior!* <br>
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/4.jpg" width="50%">
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/4.png" width="50%">
     <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/5.jpg" width="50%"><br>
     
 ## Chinese Dessert
 - 冰粉（sorry I cannot find a good translation in English）<br>
-  <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/6.jpg" width="50%">
-  
+  <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/6.png" width="50%">
 
-
-## Bread
-- Croissant
-
-## Chinese Dessert
