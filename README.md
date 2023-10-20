@@ -1,4 +1,4 @@
-# Feng-sCookingRoom
+# Feng's Cooking Room
 Moved from my own life record repository on another account. <br>
 Recipes and personal notes are being added gradually
 
