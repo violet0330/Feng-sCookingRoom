@@ -1,4 +1,4 @@
-# Cocoa Mille Crepe
+# Cocoa Mousse 
 
 ## Ingredients
 - 75% dark chocolate 180g
