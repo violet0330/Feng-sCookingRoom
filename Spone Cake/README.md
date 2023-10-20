@@ -12,7 +12,7 @@ Cream is the same. <br>
 
 ## Pictures of partially made cakes <br>
 **- Chocolate Cake**<br>
-*Chocolate is my personal favorite dessert flavor!*
+*Chocolate is my personal favorite dessert flavor!* <br>
   Based on the feedback from tasters, chocolate goes very well with coffee, mango, coconut and lemon, and these flavors are recommended to be preferred when trying it.<br>
 <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Spone%20Cake/img/ChocolateCake.jpg" width="50%">
 <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Spone%20Cake/img/ChocolateMangoCake.jpg" width="50%">
