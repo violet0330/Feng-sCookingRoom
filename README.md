@@ -26,22 +26,22 @@ Recipes and personal notes are being added gradually
 
 ## Dessert
 - Cookies
-  - Chocolate Soft Cookies and Brownies for Afternoon Tea with Qi and Lan <br>
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/1.jpg" width="50%"><br>
-  - Breton Biscuits and Chocolate Soft Cookies for Afternoon Tea with Qi and Lan <br>
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/2.jpg" width="50%"><br>
+  - [Chocolate Soft Cookies](https://github.com/violet0330/Feng_CookingRoom/blob/main/Dessert/Soft%20Cookies.md) and Brownies for Afternoon Tea with Qi and Lan <br>
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/1.jpg" width="50%"><br>
+  - Breton Biscuits and [Chocolate Soft Cookies](https://github.com/violet0330/Feng_CookingRoom/blob/main/Dessert/Soft%20Cookies.md) for Afternoon Tea with Qi and Lan <br>
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/2.jpg" width="50%"><br>
   - Butter Blueberry Cookies <br>
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/3.jpg" width="50%"><br>
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/3.jpg" width="50%"><br>
 - Brownie
 
 ## Bread<br>
 - Croissant<br>
   - Not a very successful attempt.<br>
     *I'll post the recipe when I've made the perfect croissant with a beautiful exterior!* <br>
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/4.png" width="50%">
-    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/5.jpg" width="50%"><br>
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/4.png" width="50%">
+    <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/5.jpg" width="50%"><br>
     
 ## Chinese Dessert
 - 冰粉（sorry I cannot find a good translation in English）<br>
-  <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/6.png" width="50%">
+  <img src="https://github.com/violet0330/Feng-sCookingRoom/blob/main/Dessert/Img/6.png" width="50%">
 
