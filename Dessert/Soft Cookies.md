@@ -1,3 +1,9 @@
+# Soft Chookies <br>
+A very simple and versatile cookie:<br>
+- Replace 10g of flour with cocoa powder for a richer chocolate flavor.<br>
+- Can customize the choice of chocolate, dried fruits, and nuts according to personal preference.<br>
+- Can add a jam filling when making cookie dough balls.
+
 ## Ingredients
 - 105g Butter
 - 60g White Sugar
